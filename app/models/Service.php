@@ -1,5 +1,5 @@
 <?php
-require_once __DIR__ . '/../../config/config.example.php';
+require_once __DIR__ . '/../../config/database.php';
 
 class Service {
     public static function delete($id) {

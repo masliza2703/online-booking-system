@@ -1,5 +1,5 @@
 <?php
-require_once __DIR__ . '/../../config/config.example.php';
+require_once __DIR__ . '/../../config/database.php';
 class Appointment {
     public static function getTodayConfirmed($therapist_id = '') {
         global $pdo;

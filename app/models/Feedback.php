@@ -1,5 +1,5 @@
 <?php
-require_once __DIR__ . '/../../config/config.example.php';
+require_once __DIR__ . '/../../config/database.php';
 
 class Feedback {
     public static function save($appointment_id, $comment, $rating, $is_visible) {

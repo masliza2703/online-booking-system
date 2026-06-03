@@ -1,5 +1,5 @@
 <?php
-require_once __DIR__ . '/../config/config.example.php';
+require_once __DIR__ . '/../config/database.php';
 $page = $_GET['page'] ?? 'home';
 
 // Serve static assets directly if requested (js, css, images, etc)

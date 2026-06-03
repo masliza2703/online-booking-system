@@ -1,5 +1,5 @@
 <?php
-require_once __DIR__ . '/../../config/config.example.php';
+require_once __DIR__ . '/../../config/database.php';
 class Sale {
     public static function getAll($start_date = '', $end_date = '', $therapist_id = '', $service_id = '') {
         global $pdo;

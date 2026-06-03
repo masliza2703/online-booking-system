@@ -1,5 +1,5 @@
 <?php
-require_once __DIR__ . '/../../config/config.example.php';
+require_once __DIR__ . '/../../config/database.php';
 
 class Admin {
     public static function register($name, $email, $phone, $password) {

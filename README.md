@@ -24,3 +24,11 @@ A web-based booking system developed as a Final Year Project using MVC architect
 
 ## Note
 Sensitive configuration files are excluded from version control.
+
+For login as admin use this
+email : liza@admin.mums.com
+pass : Liza123!!
+
+For login as therapist use this
+email : mas@therapist.mums.com
+pass : Mas123!!

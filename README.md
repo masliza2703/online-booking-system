@@ -30,5 +30,5 @@ email : liza@admin.mums.com
 pass : Liza123!!
 
 For login as therapist use this
-email : mas@therapist.mums.com
-pass : Mas123!!
+email :  liza@therapist.mums.com
+pass : Liza123!!
